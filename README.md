@@ -15,7 +15,6 @@ For further information check out the [documentation](https://raw.githack.com/SI
 |Device|Firmware|
 |--|--|
 |SICK AppEngine|V1.5.0|
-|SIM1012|V2.3.0|
 
 This application / module is part of the SICK AppSpace Coding Starter Kit developing approach.  
 It is programmed in an object oriented way. Some of the modules use kind of "classes" in Lua to make it possible to reuse code / classes in other projects.  
